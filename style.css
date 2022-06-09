@@ -1,4 +1,8 @@
-footer, #MainMenu{
+footer {
+    display: none;
+}
+
+#MainMenu {
     display: none;
 }
 
