@@ -1,5 +1,5 @@
 footer, #MainMenu{
-    visibility: hidden;
+    display: none;
 }
 
 div.css-yddy2t {
